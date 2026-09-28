@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-go-intern-assignment",
-    "slug": "expo-go-intern-assignment",
+    "name": "Streaks",
+    "slug": "streaks-intern-assignment",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
