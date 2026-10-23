@@ -37,7 +37,7 @@ npm test                # unit tests for lib/streak.ts (they fail until you impl
 npm run lint
 ```
 
-This project is pinned to **Expo SDK 57**, which is what the App Store build of Expo Go runs today.
+This project is pinned to **Expo SDK 58**, which is what the App Store build of Expo Go runs today.
 Don't upgrade or downgrade the SDK.
 
 ## Rules
